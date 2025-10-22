@@ -1,16 +1,16 @@
 ## Thesis Introduction
-A capstone thesis related to reducing latency in YOLOv11 by implementing BOE-NMS using Household E-Waste. 
-An online repository was used as a training dataset but uses taken photos of local household e-wastes for testing and validation.
-It uses comparative analysis on YOLO11, RT-DETR, and YOLO11 /w BOE-NMS.
+A capstone thesis related to reducing latency in YOLOv11 by implementing BOE-NMS using Household E-Waste. <br/>
+An online repository was used as a training dataset but uses taken photos of local household e-wastes for testing and validation. <br/>
+It uses comparative analysis on YOLO11, RT-DETR, and YOLO11 /w BOE-NMS. <br/>
 
-# Methodology
-R: we should improve accuracy
-D: we should make it faster
-S: we should improve the metrics
-R: we should take yolov11 and implement boe-nms!
-D: that idea might just be crazy enough... TO GET US FAILED
+## Methodology
+R: we should improve accuracy <br/>
+D: we should make it faster <br/>
+S: we should improve the metrics <br/>
+R: we should take yolov11 and implement boe-nms! <br/>
+D: that idea might just be crazy enough... TO GET US FAILED <br/>
 
-# Results
+## Results
 ofc it beat base yolo and rtdetr in terms of latency but rtdetr wins in terms of evaluation metrics because both yolos were the same metrics
 
 ## Future Recommendations:
