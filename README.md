@@ -3,6 +3,16 @@ A capstone thesis related to reducing latency in YOLOv11 by implementing BOE-NMS
 An online repository was used as a training dataset but uses taken photos of local household e-wastes for testing and validation.
 It uses comparative analysis on YOLO11, RT-DETR, and YOLO11 /w BOE-NMS.
 
+# Methodology
+R: we should improve accuracy
+D: we should make it faster
+S: we should improve the metrics
+R: we should take yolov11 and implement boe-nms!
+D: that idea might just be crazy enough... TO GET US FAILED
+
+# Results
+ofc it beat base yolo and rtdetr in terms of latency but rtdetr wins in terms of evaluation metrics because both yolos were the same metrics
+
 ## Future Recommendations:
 - maybe not screw up the annotation and bounding boxes of the secondary dataset
 - since yolo11 is better yolo8, replace the dataset with videos cuz thats the main purpose of yolo8 archi
